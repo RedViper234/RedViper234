@@ -25,19 +25,6 @@ Sono una persona sempre desiderosa di imparare e affrontare nuove sfide. Sia che
 
 ## Le mie competenze principali includono:
 
-- JavaScript
-- CSS
-- HTML
-- MySQL
-- Node.js
-- React
-- React Native
-- C#
-- Unity Engine
-- Linux
-
-## Le mie competenze principali includono:
-
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
