@@ -1,8 +1,4 @@
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
+
 # Benvenuto nel mio profilo GitHub!
 
 Ciao! Mi chiamo Niccolò Posarelli, un appassionato programmatore con un pò esperienza nel campo dei videogiochi Unity e un crescente interesse nel mondo dello sviluppo web.
