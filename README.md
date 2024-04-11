@@ -1,10 +1,10 @@
 # Benvenuto nel mio profilo GitHub!
 
-Ciao! Sono [il_tuo_nome], un appassionato programmatore con una forte esperienza nel campo dei videogiochi Unity e un crescente interesse nel mondo dello sviluppo web con React.
+Ciao! Mi chiamo Niccolò Posarelli, un appassionato programmatore con un pò esperienza nel campo dei videogiochi Unity e un crescente interesse nel mondo dello sviluppo web.
 
 ## Chi sono
 
-Sono nato con la passione per i videogiochi e ho iniziato la mia carriera come sviluppatore di videogiochi utilizzando l'Unity Engine e il linguaggio C#. Ho contribuito a creare diversi giochi, affrontando sfide creative e tecniche che mi hanno arricchito come programmatore.
+Sono nato con la passione per i videogiochi e ho iniziato la mia carriera come sviluppatore di videogiochi utilizzando l'Unity Engine e il linguaggio C#.Ho frequentato per 3 anni la scuola Comics di Firenze facendo il corso per game programmer. Ho contribuito a creare diversi piccoli progetti, affrontando sfide creative e tecniche che mi hanno arricchito come programmatore.
 
 ## Nuove sfide
 
@@ -25,6 +25,8 @@ Sono una persona sempre desiderosa di imparare e affrontare nuove sfide. Sia che
 - React Native
 - C#
 - Unity Engine
+- Linux
+
 
 ## Contattami
 
