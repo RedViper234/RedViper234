@@ -6,9 +6,7 @@
 
 <div align="center">
 
-# Niccolò
-
-### Full-stack engineer — graphics · WebAssembly · real-time systems
+<img src="assets/header.svg" alt="Niccolò — Full-stack engineer: graphics, WebAssembly, real-time systems" width="100%"/>
 
 <sub>Florence, Tuscany · Italy</sub>
 
